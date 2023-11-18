@@ -1,0 +1,1 @@
+A parallax landing page is a web design technique that creates an engaging and dynamic user experience by giving the illusion of depth through the use of layered elements that move at different speeds as the user scrolls down the page. This effect is achieved by manipulating the position of background images or elements relative to the user's scrolling.
